@@ -1,1 +1,1 @@
-# Symfony-simple-app
+# Symfony 4 simple CRUD app
